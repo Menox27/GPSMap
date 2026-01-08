@@ -1,6 +1,7 @@
 Components:
 1x Seeed Studio XIAO ESP32-C6
 1x 2,4" SPI TFT LCD (ILI9341)
+1x ATGM336H
 1x MicroSD-Card
 2x 18650 35E (3500mAh) Li-POs (Flat-Top)
 1x 1S Li-Ion BMS Protection Board (mind. 2A bis 5A)
