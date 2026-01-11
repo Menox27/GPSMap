@@ -9,8 +9,12 @@ Components:
 1x BMS 1S 12A 3.7V lithium battery protection board 18650
 1x Superkondensator Coin Type, 0,22 F, 5,5 V, 1000 h
 1x GPS Ceramic Antenna 
+1x Touch Panel 2.8 Inch SPI TFT LCD
 
 still needed: 
 - case
-- touch display
 
+TODO:
+- get Footprints 
+- build PCB
+- create Casing
